@@ -12,7 +12,7 @@
 
 # ✨ Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
-<img src="http://mazandi.herokuapp.com/api?handle={ymg0987}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={ymg0987}&theme=warm)
 
 
 
