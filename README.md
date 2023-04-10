@@ -1,7 +1,7 @@
 # KIM SUMI
 
 <div align = center>
-## About Me
+## Profile
 
 
 ## 👜 GitHub Stats
@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Django](https://img.shields.io/badge/Spring-092E20.svg?&style=for-the-badge&logo=Python&logoColor=white) 
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 
