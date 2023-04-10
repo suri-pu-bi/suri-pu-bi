@@ -12,17 +12,16 @@
 
 # ✨ Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
+<img src="http://mazandi.herokuapp.com/api?handle={ymg0987}&theme=warm"/>
 
 
 
 # Activity 
 
 
-<div>
 
  # 🔨 Tech Stack 
-
- ### Languages & Platforms
+ ## Languages & Platforms
  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
@@ -30,7 +29,7 @@
  ![Django](https://img.shields.io/badge/Spring-092E20.svg?&style=for-the-badge&logo=Python&logoColor=white) 
  ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
- ### Tools
+ ## Tools
  ![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
  ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
@@ -41,7 +40,6 @@
 
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
  ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Git&logoColor=white)
- </div>
 
  </div>
 
