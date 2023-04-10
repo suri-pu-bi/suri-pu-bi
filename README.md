@@ -2,7 +2,7 @@
 
 <div align = center>
 ## Profile
-
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 ## 👜 GitHub Stats
 ![suri-pu-bi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suri-pu-bi&show_icons=true)
@@ -19,17 +19,14 @@
 
 ## 🔨 Tech Stack 
 
-### Languages & Platforms
+Languages & Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Spring-092E20.svg?&style=for-the-badge&logo=Python&logoColor=white) 
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white)
-
-
-
-### Tools
+Tools
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
