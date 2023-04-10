@@ -17,11 +17,11 @@
 
 
 
-## Tech Stack 
+## 🔨 Tech Stack 
 
 ### Languages & Platforms
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white)
