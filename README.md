@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb8c6&height=300&section=header&text=Sumi's%20Github!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffb8c6&height=300&section=header&text=Sumi's%20Github!&fontSize=60)
 
 # KIM SUMI
 
