@@ -6,12 +6,12 @@
 
 ## 👜 GitHub Stats
 ![suri-pu-bi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suri-pu-bi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suri-pu-bi&layout=compact)
 
 ## ✨ Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
 
-## 📊 Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suri-pu-bi&layout=compact)
+
 
 ## Activity 
 
@@ -20,7 +20,7 @@
 ## 🔨 Tech Stack 
 
 ### Languages & Platforms
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Python&logoColor=white)
