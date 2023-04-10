@@ -33,8 +33,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij%20IDEA-000000.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
 
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Git&logoColor=white)
