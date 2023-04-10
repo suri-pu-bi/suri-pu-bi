@@ -1,6 +1,6 @@
 # KIM SUMI
 
-
+<div align = center>
 ## About Me
 
 
@@ -39,4 +39,5 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
+ </div>
 
