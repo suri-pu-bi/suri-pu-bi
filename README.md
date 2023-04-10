@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**suri-pu-bi/suri-pu-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👜 GitHub Stats
+![suri-pu-bi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suri-pu-bi&show_icons=true)
+
+## ✨ Baekjoon Solved Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
+
+## 📊 Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suri-pu-bi&layout=compact)
+
+
+## Tech Stack 
+
+
+
