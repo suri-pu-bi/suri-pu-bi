@@ -14,13 +14,14 @@
 
 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그 아이디&color=테마 변경)](https://velog.io/@kirise)
 
 # 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
 |------|---|-----|
-|알고리즘 스터디|2022.02 ~ing|백준, 프로그래머스 알고리즘 스터디 운영자|
 |멋쟁이 사자처럼 10기|2022.02 ~ 2022.12|IT 연합 동아리 멋쟁이 사자처럼 10기 부원|
 |넥슨 메이플 스토리 월드 서포터즈 해커톤|2022.07 ~ 08|Lua script로 마피아 게임 개발 (최우수상)|
+|알고리즘 스터디|2022.02 ~ 2023.08|백준, 프로그래머스 알고리즘 스터디 운영자|
 
 
  # 🔨 Tech Stack 
@@ -29,7 +30,6 @@
  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
  ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Python&logoColor=white)
- ![Django](https://img.shields.io/badge/Spring-092E20.svg?&style=for-the-badge&logo=Python&logoColor=white) 
  ![Mysql](https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
  ## Tools
@@ -42,7 +42,7 @@
 
 
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
- ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Git&logoColor=white)
+
 
  </div>
 
