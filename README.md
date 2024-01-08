@@ -1,14 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffb8c6&height=300&section=header&text=Sumi's%20Github!&fontSize=60&desc=Backend%20Developer)
 
+
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kirise)](https://velog.io/@kirise)
 
 
 <div align = center>
- 
-# ✨ Baekjoon Solved Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kirise)](https://velog.io/@kirise)
-
 # 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
 |------|---|-----|
