@@ -3,18 +3,11 @@
 
 
 <div align = center>
-
-# 👜 GitHub Stats
-![suri-pu-bi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suri-pu-bi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suri-pu-bi&layout=compact)
-
+ 
 # ✨ Baekjoon Solved Rank
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
-<img src="http://mazandi.herokuapp.com/api?handle=ymg0987&theme=warm"/>
 
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=벨로그 아이디&color=테마 변경)](https://velog.io/@kirise)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kirise)](https://velog.io/@kirise)
 
 # 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
