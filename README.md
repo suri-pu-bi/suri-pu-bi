@@ -17,7 +17,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kirise&tag=Spring)](https://github.com/eungyeole/velog-readme-stats)
 
 
-# 🏄🏻‍♀️ Activity 
+## 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
 |------|---|-----|
 |멋쟁이 사자처럼 10기|2022.02 ~ 2022.12|IT 연합 동아리 멋쟁이 사자처럼 10기 부원|
