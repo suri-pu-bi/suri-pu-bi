@@ -11,11 +11,12 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Git&logoColor=white)
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-
+<div align="center">
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kirise&tag=Spring)](https://github.com/eungyeole/velog-readme-stats)
 
+</div>
 
 ## 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
