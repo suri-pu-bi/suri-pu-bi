@@ -13,7 +13,6 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kirise)](https://github.com/eungyeole/velog-readme-stats)
 
 
 
