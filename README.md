@@ -12,7 +12,12 @@
  ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987)](https://solved.ac/ymg0987/)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/suri-pu-bi" />
+</a>
+<a href="https://solved.ac/ymg0987/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987" />
+</a>
 
 
 
