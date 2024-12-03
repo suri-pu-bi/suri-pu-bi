@@ -3,14 +3,27 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/suri-pu-bi?pet-id=651787555878207061"
-    width="600"
+    width="1000"
     height="120"
   />
 </a>
-  
-<a href="https://solved.ac/ymg0987/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987" />
-</a>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/suri-pu-bi"
+      width="300"
+      height="180"
+    />
+  </a>
+  <a href="https://solved.ac/ymg0987/">
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987"
+      width="300"
+      height="180"
+    />
+  </a>
+</div>
 
 
 
