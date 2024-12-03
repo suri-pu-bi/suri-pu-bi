@@ -1,18 +1,10 @@
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="https://github.com/devxb/gitanimals">
+ <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/suri-pu-bi?pet-id=651787555878207061"
-    width="450"
+    width="1000"
     height="120"
   />
 </a>
-  <a href="https://solved.ac/ymg0987/">
-    <img
-      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ymg0987"
-    />
-  </a>
-</div>
 
 
 
