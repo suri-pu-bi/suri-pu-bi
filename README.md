@@ -3,7 +3,7 @@
   <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/suri-pu-bi?pet-id=651787555878207061"
-    width="400"
+    width="450"
     height="120"
   />
 </a>
