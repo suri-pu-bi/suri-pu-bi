@@ -1,12 +1,10 @@
- <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/suri-pu-bi?pet-id=651787555878207061"
-    width="1000"
-    height="120"
-  />
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/suri-pu-bi"
+  width="400"
+  height="200"
+/>
 </a>
-
-
 
 ## 🏄🏻‍♀️ Activity 
 |활동|기간|활동 내용|
