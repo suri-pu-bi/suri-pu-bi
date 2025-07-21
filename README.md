@@ -30,6 +30,6 @@
 
 ### 📄 Contents 
 * [모델만 서빙하면 끝? 조회할 때마다 학습해서 추론하려고?](https://until.blog/@kirise/%EB%AA%A8%EB%8D%B8%EB%A7%8C-%EC%84%9C%EB%B9%99%ED%95%98%EB%A9%B4-%EB%81%9D--%EC%A1%B0%ED%9A%8C%ED%95%A0-%EB%95%8C%EB%A7%88%EB%8B%A4-%ED%95%99%EC%8A%B5%ED%95%B4%EC%84%9C-%EC%B6%94%EB%A1%A0%ED%95%98%EB%A0%A4%EA%B3%A0-)
-* [추천시스템 아키텍처 설계하기]()
+* [추천시스템 아키텍처 설계하기](https://until.blog/@kirise/%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 
 
